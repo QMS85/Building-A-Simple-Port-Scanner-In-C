@@ -1,7 +1,5 @@
 # Building-A-Simple-TCP-Port-Scanner-In-C
 
-# Building A Simple TCP Port Scanner in C
-
 ## Overview
 
 This project demonstrates how to build a basic TCP port scanner in C. Port scanning is a technique used to determine which ports on a target host are open. This knowledge is essential for network administration and security.
